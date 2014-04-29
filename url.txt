@@ -1,1 +1,6 @@
 https://github.com/niklasvh/html2canvas
+http://stackoverflow.com/questions/6887183/how-to-take-screen-shot-of-a-div-with-javascript
+http://grabz.it/api/javascript/mobile.aspx
+http://ctrlq.org/code/19136-screenshots-javascript
+http://learningthreejs.com/blog/2011/09/03/screenshot-in-javascript/
+http://forums.asp.net/t/1958222.aspx?How+to+take+a+screenshot+from+a+html+page+
